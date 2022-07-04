@@ -9,4 +9,5 @@ Add lists
 Add images and links
 Utilize correct commit messages
 
-
+Added index.html
+Added one recipe
